@@ -6,6 +6,7 @@
 
 ![An image of 'Wheels of Fortune'](readmeImages/Pacita_Abad_Wheels_of_fortune.jpg)
 
+
 ## Park1
 - Inspiring for your assignment:Stellar Particles and Spiral  
 - In my project, the inspiration comes from cosmic art, particularly the dynamic circular and spiral patterns. These expanding circles and spirals create a sense of depth, motion, and infinity, while the use of colors further enhances the layering effect. I plan to integrate these elements into an interactive interface where the circles ripple outward, and the spirals rotate with user interaction, symbolizing the unfolding of information and exploration between content. Although challenging to implement, this technique will add dynamic visual effects, rich colors, and immersion, enhancing the flow and visual impact, making the design more engaging for users.  
@@ -17,7 +18,9 @@
 
 ## Coding Technique in Action: Image or Screenshot with Example Link
 ### "Stellar Particles" 
-- [Stellar Particles](https://codepen.io/sschepis/pen/ExvexL?editors=0010)
+- [Example Link of Stellar Particles](https://codepen.io/sschepis/pen/ExvexL?editors=0010)
+![An image of 'Stellar Particles'](readmeImages/Stellar_Particles_coding.jpg)
 
 ### "Spiral"
-- [Spiral](https://codepen.io/Tsankashvili/pen/MWMBdNO?editors=0100)
+- [Example Link of Spiral](https://codepen.io/Tsankashvili/pen/MWMBdNO?editors=0100)
+![An image of 'Stellar Particles'](readmeImages/Spiral_coding.jpg)
