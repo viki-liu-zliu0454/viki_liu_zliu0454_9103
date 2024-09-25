@@ -5,7 +5,7 @@
 
 -0ur group chose Monet's Pacita Abad'Wheels of fortune'
 
-![An image of 'Wheels of fortune'](Quiz_8_photo/Pacita_Abad_Wheels_of_fortune.jpg)
+![An image of 'Wheels of fortune'](./readmeImages/Pacita_Abad_Wheels_of_fortune.jpg)
 
 #part 1
 
