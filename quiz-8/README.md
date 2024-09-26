@@ -2,7 +2,7 @@
 
 **About the Assignment**
 - 0ur group chose Monet's Pacita Abad'Wheels of fortune'
-- Through 'Wheels of Fortune,' I discovered that it includes particle generation, dynamic circular expansion, and spiral animation effects achieved through rotation and scaling.
+- Through 'Wheels of Fortune,' I discovered that it includes particle generation, dynamic circular expansion, and spiral animation effects achieved through rotation and scaling.  
 ![An image of 'Wheels of Fortune'](readmeImages/Pacita_Abad_Wheels_of_fortune.jpg)
 
 ## Park1
