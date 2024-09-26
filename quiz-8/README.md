@@ -10,10 +10,8 @@
 - Inspiring for your assignment:Stellar Particles and Spiral  
 - In my project, the inspiration comes from cosmic art, particularly the dynamic circular and spiral patterns. These expanding circles and spirals create a sense of depth, motion, and infinity, while the use of colors further enhances the layering effect. I plan to integrate these elements into an interactive interface where the circles ripple outward, and the spirals rotate with user interaction, symbolizing the unfolding of information and exploration between content. Although challenging to implement, this technique will add dynamic visual effects, rich colors, and immersion, enhancing the flow and visual impact, making the design more engaging for users.  
 - Images：Stellar Particles and Spiral
-###  Image of 'Stellar Particles'
-![An image of 'Stellar Particles'](readmeImages/Stellar_Particles.jpg)
-###  Image of 'Spiral'
-![An image of 'Stellar Particles'](readmeImages/Spiral.jpg)
+###  Image of 'Stellar Particles' & Image of 'Spiral'
+![An image of 'Stellar Particles'](readmeImages/Stellar_Particles.jpg) ![An image of 'Stellar Particles'](readmeImages/Spiral.jpg) 
 
 ## Park 2
 - Inspiring: Stellar Particles and Spiral  
